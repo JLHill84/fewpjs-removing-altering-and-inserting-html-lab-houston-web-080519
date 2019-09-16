@@ -1,2 +1,2 @@
 // Write your code here!
-let main = document.
+let main = document.getElementById
